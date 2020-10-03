@@ -751,12 +751,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .hoodie {
-    background: url('../img/hoodies.svg') center center;
+    background: url('../img/cloudtshirt.png') center center;
     background-size: cover;
 }
 
 .pen {
-    background: url('../img/pens.svg') center center;
+    background: url('../img/gcpbag.png') center center;
     background-size: cover;
 }
 
